@@ -1,1 +1,4 @@
 # gittest
+
+*amit singh 
+*amit
